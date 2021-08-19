@@ -8,6 +8,7 @@ then
     alias cargo="cargo +$TOOLCHAIN"
 fi
 
+
 cargo --version
 rustc --version
 
